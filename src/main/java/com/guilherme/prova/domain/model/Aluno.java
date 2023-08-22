@@ -1,6 +1,5 @@
 package com.guilherme.prova.domain.model;
 
-import org.springframework.lang.NonNull;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
